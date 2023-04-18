@@ -61,7 +61,7 @@ fontsLoader.load(
     text.center();
 
     const material = new three.MeshMatcapMaterial({
-      matcap: matcaps3,
+      matcap: matcaps1,
       color: attributes.color,
     });
 
